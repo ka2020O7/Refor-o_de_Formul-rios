@@ -1,0 +1,50 @@
+
+#navbar{
+    background-color: black;
+    height: 100px;
+    border-radius:5px;
+    }
+    
+    header{
+        text-align: center;
+        color: aliceblue;
+        
+    }
+    
+    
+    .body{
+        background-color: rgb(146, 146, 146)
+    }
+    
+    main{
+       margin: 500px; 
+       background-color: rgb(226, 226, 226);
+       border-radius: 5px;
+       padding: 100px;
+        
+    }
+    
+    
+    form{
+        display: block;
+        color: rgb(0, 0, 0);
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        border-radius: 8px;
+        position: relative;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+
+    input, select, textarea {
+        width: 600px;
+        max-width: 10000px; 
+        padding: 12px; 
+        font-size: 16px;
+        border: 1px solid #ccc; 
+        border-radius: 4px; 
+        box-sizing: border-box; 
+        margin-bottom: 10px; 
+    }
+
+    
